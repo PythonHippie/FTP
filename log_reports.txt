@@ -1,0 +1,24 @@
+/home/ubuntu/git/
+                 _       _   
+  ___  _ __   __| | ___ | |_ 
+ / _ \| '_ \ / _` |/ _ \| __|
+| (_) | | | | (_| | (_) | |_ 
+ \___/|_| |_|\__,_|\___/ \__|
+                             
+=========================================|=======================================|========================================|========================================|========================================|========================================|
+REPO                                     COMMIT                                   SUBJECT                                  BODY                                     AUTHOR NAME                              DATE                                    
+========================================|========================================|========================================|========================================|========================================|========================================|
+PythonPrograms                           f3ec6b614ba171832b5aead8f29388510aef3a3d release build procedure......                                                     PythonHippie                             2019-05-31 17:42:14 +0530               
+PythonPrograms                           803cb44127b120b5eedb5cecb814633d67611985 finding the file path script is added                                             PythonHippie                             2019-05-29 10:54:56 +0530               
+PythonPrograms                           fb8b1276953c84a2514e2dbcdc55ae26a536f2f9 added creating directories script                                                 PythonHippie                             2019-05-29 10:38:45 +0530               
+PythonPrograms                           f23d91b1db96e2af5d0afc75aee4b8d2e799965f table script added                                                                PythonHippie                             2019-05-29 00:12:32 +0530               
+PythonPrograms                           ec03dcb6face67ca7eba84217637723ca9706244 update1                                                                           PythonHippie                             2019-05-28 23:50:45 +0530               
+PythonPrograms                           00563ec6176a82039359e3385d3eb016b2a61494 added git_log_automation file                                                     PythonHippie                             2019-05-28 23:41:09 +0530               
+PythonPrograms                           dae9105b6b2a359e56728696bca152a0a659c1ca new test1.py file is added                                                        PythonHippie                             2019-04-28 07:01:29 +0000               
+PythonPrograms                           5cfb9a624e812bdf7481fe22c0c76ec3d4523fc3 added hello.py                                                                    sandeep kumar                            2019-04-16 19:47:18 +0530               
+PythonPrograms                           acd36f023717c62b318a2d0f45237dede3ad21ef added hi.py file                                                                  sandeep kumar                            2019-04-16 19:44:16 +0530               
+PythonPrograms                           d91778860767248fdae72bff91c2f12ed2db7c9b added py1 file                                                                    PythonHippie                             2018-08-31 18:09:26 +0530               
+PythonPrograms                           05ee0b3b0ef6faf1b37efdc2f4dd52ca77e2b7fe Create README.md                                                                  PythonHippie                             2018-08-31 17:59:07 +0530               
+PythonPrograms                           b52d99bd48d3eca8d94c30ec35a4d94f0d3fae7b Initial commit                                                                    PythonHippie                             2018-08-31 17:58:31 +0530               
+pull_request_template                    da75f7b60c2fdb784682af5a24d6f96167761a55 added the git_log_automation.py                                                   Ubuntu                                   2019-05-29 04:45:44 +0000               
+                                                                                                                                                                                                                                                     
